@@ -1,0 +1,117 @@
+commit 05186c9e7d8511650f7c082ff6f6e91b3a2e25bc
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Sat Jan 30 23:21:01 2021 +0530
+
+    testing stash
+
+commit 4517d87dea447a0555565775d1c0dd614379396e
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Sat Jan 30 20:55:44 2021 +0530
+
+    testing tags
+
+commit 72fa4ecb572aa26fcdd64a2175df62d6eb467bc8
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Sat Jan 30 20:32:31 2021 +0530
+
+    added line
+
+commit 8a87edb36b79dd8ab0cd08c9b536654c561fc33b
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Sat Jan 30 20:27:19 2021 +0530
+
+    testing file contents
+
+commit 32137a9d68b203315e26300dd6151fd65e54be8d
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Sat Jan 30 20:20:37 2021 +0530
+
+    reverted.......Revert "testing revert"
+    
+    This reverts commit a4c3ec9614d0becdf561139b5bf18e8174a18d96.
+
+commit a4c3ec9614d0becdf561139b5bf18e8174a18d96
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Sat Jan 30 20:04:43 2021 +0530
+
+    testing revert
+
+commit 7e89a744350403dfa95f7694c160a2b3e6ad03c1
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Mon Jan 25 16:09:34 2021 +0530
+
+    testing merge
+
+commit 51607da04aa5d869ebc0d0a4296028d01a7f955d
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Mon Jan 25 16:03:50 2021 +0530
+
+    testing merge and rebase
+
+commit 9b85b18d3bbf7cbbbe8a62b52cf4f42b77b9ed7f
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Sat Jan 23 20:03:43 2021 +0530
+
+    removed .gitignore from Remote repo Revert "testing .gitignore"
+    
+    This reverts commit 8bd6d968aef60ee6750eecb21db874263ef7a7f5.
+
+commit 8bd6d968aef60ee6750eecb21db874263ef7a7f5
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Sat Jan 23 20:01:02 2021 +0530
+
+    testing .gitignore
+
+commit 370abe2eb4809a461d6163f90f56c0506e1c3c5a
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Sat Jan 23 19:47:04 2021 +0530
+
+    reverted......Revert "Testing revert command"
+    
+    This reverts commit 2f1525b5a0a4aba94141c9ec7735993231dabe95.
+
+commit 2f1525b5a0a4aba94141c9ec7735993231dabe95
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Sat Jan 23 19:41:03 2021 +0530
+
+    Testing revert command
+
+commit cfd4fa8f3c1e743ed4870a00342a2d1d9a2d5b0e
+Author: arvind61h <67312620+arvind61h@users.noreply.github.com>
+Date:   Sat Jan 23 00:34:56 2021 +0530
+
+    Update file1
+    
+    one more feature added
+
+commit 24c2adc351beca3928c0771dcbeb3566e4a05f04
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Sat Jan 23 00:31:28 2021 +0530
+
+    using -a with commit command, to add simultanously to staging area and local repo
+
+commit cd699bad86cb9b8010ae92658906b8ac7c55dad9
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Fri Jan 22 23:43:37 2021 +0530
+
+    revertted ........Revert "testing revert command"
+    
+    This reverts commit 9bacb2e2701d79705b40f49ba305b0ebd2ac75ed.
+
+commit 9bacb2e2701d79705b40f49ba305b0ebd2ac75ed
+Author: arvind61h <arvind61h@gmail.com>
+Date:   Fri Jan 22 23:36:06 2021 +0530
+
+    testing revert command
+
+commit 66bd32076a9d844b04df7f41d0c44e525ed338ee
+Author: arvind-61h <arvind61h@gmail.com>
+Date:   Tue Aug 11 19:43:45 2020 +0530
+
+    B
+
+commit 394daf527a53278d730bf68f70977c532d080c8b
+Author: arvind-61h <arvind61h@gmail.com>
+Date:   Tue Aug 11 19:09:30 2020 +0530
+
+    A

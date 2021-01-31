@@ -2,5 +2,4 @@ Testing1
 Prod brnch
 testing tags
 testing stash
-testing fetch
 pull is concept is clear, it will pull code from remote repo, and it will update local repo as well as it will update working copy.
